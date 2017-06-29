@@ -1,6 +1,6 @@
 #Fiscal Code
 
-A ruby web app based on the [Roda](https://github.com/jeremyevans/roda/tree/master/spec) framework which has calculates the Italian fiscal code.
+A ruby web app based on the [Roda](https://github.com/jeremyevans/roda/tree/master/spec) framework which calculates the Italian fiscal code.
 
 ##Usage
 
